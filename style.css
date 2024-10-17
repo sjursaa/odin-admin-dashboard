@@ -31,3 +31,39 @@ div {
   grid-template: 1fr /1fr 3fr;
   /* grid-template-rows: 1fr 1fr; */
 }
+
+#home {
+  grid-row-start: 3;
+}
+
+#profile {
+  grid-row-start: 4;
+}
+
+#messages {
+  grid-row-start: 5;
+}
+
+#history {
+  grid-row-start: 6;
+}
+
+#tasks {
+  grid-row-start: 7;
+}
+
+#communities {
+  grid-row-start: 8;
+}
+
+#settings {
+  grid-row-start: 10;
+}
+
+#privacy {
+  grid-row-start: 11;
+}
+
+#support {
+  grid-row-start: 12;
+}
