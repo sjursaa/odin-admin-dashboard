@@ -1,13 +1,14 @@
 body {
   display: grid;
-  grid-template-columns: 100px 500px;
-  grid-template-rows: 100px 500px;
+  grid-template-columns: 200px 1000px;
+  grid-template-rows: 200px 1000px;
 }
 
 div {
   border: solid;
 }
 
+/* Main body */
 .sidebar-container {
   grid-column-start: 1;
   grid-row-start: 1;
@@ -20,4 +21,11 @@ div {
 
 .main-content-container {
   grid-column-start: 2;
+}
+
+/* Sidebar */
+.sidebar-element {
+  display: grid;
+  grid-template: 1fr /1fr 1fr;
+  /* grid-template-rows: 1fr 1fr; */
 }
