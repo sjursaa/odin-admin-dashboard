@@ -20,6 +20,8 @@ div {
 
 .header-container {
   grid-column-start: 2;
+  display: grid;
+  grid-template: 1fr 1fr / 1fr 1fr;
 }
 
 .main-content-container {
