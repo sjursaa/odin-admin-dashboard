@@ -71,3 +71,12 @@ div {
 #support {
   grid-row-start: 12;
 }
+
+/* header */
+
+/* main-content */
+.projects-section {
+  display: grid;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
