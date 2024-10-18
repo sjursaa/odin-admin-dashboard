@@ -21,7 +21,7 @@ div {
 .header-container {
   grid-column-start: 2;
   display: grid;
-  grid-template: 1fr 1fr / 1fr 1fr;
+  grid-template: 1fr 1fr / 2fr 1fr;
 }
 
 .main-content-container {
@@ -75,6 +75,10 @@ div {
 }
 
 /* header */
+.search-container {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
 
 /* main-content */
 .projects-section {
