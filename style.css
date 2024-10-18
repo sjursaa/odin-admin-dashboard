@@ -13,6 +13,7 @@ div {
   grid-column-start: 1;
   grid-row-start: 1;
   grid-row-end: 3;
+  /*subgrid*/
   display: grid;
   grid-template-rows: repeat(30, 1fr);
 }
@@ -23,6 +24,9 @@ div {
 
 .main-content-container {
   grid-column-start: 2;
+  /* subgrid */
+  display: grid;
+  grid-template: 1fr 1fr /2fr 1fr;
 }
 
 /* Sidebar */
