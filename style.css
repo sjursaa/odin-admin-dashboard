@@ -16,6 +16,7 @@ div {
   /*subgrid*/
   display: grid;
   grid-template-rows: repeat(30, 1fr);
+  background-color: lightblue;
 }
 
 .header-container {
@@ -30,6 +31,7 @@ div {
   /* subgrid */
   display: grid;
   grid-template: 1fr 1fr /2fr 1fr;
+  background-color: lightgray;
 }
 
 /* Sidebar */
@@ -95,7 +97,14 @@ div {
 
 /* main-content */
 .projects-section {
-  display: grid;
+  /* display: grid; */
   grid-row-start: 1;
   grid-row-end: 3;
+  /* TODO: create a grid for header + content */
+  /* TODO: create grid for content 2x3 grid */
+}
+
+.project-elements {
+  display: grid;
+  grid-template: 1fr 1fr 1fr / 1fr 1fr;
 }
