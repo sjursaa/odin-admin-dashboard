@@ -92,6 +92,7 @@ div {
   grid-column-start: 1;
   grid-column-end: 3;
   display: grid;
+  /* TODO: redivide grid template */
   grid-template: 1fr /1fr 1fr 1fr 1fr 1fr;
   margin: 10px;
   align-items: center;
@@ -109,6 +110,13 @@ div {
   grid-template: 1fr /1fr 1fr 1fr;
   margin: 10px;
   align-items: center;
+}
+
+.button-container button {
+  margin: 5px;
+  background-color: #0ea5e9;
+  color: white;
+  border-color: white;
 }
 
 /* main-content */
