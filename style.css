@@ -9,6 +9,7 @@ body {
 }
 
 div {
+  /* TODO: remove this */
   border: solid;
 }
 
@@ -114,22 +115,4 @@ div {
 .trending-element {
   display: grid;
   grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
-}
-
-grid-template: 1fr / 1fr 1fr;
 }
