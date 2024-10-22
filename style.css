@@ -106,3 +106,8 @@ div {
   display: grid;
   grid-template: 1fr 1fr 1fr / 1fr 1fr;
 }
+
+.trending-element {
+  display: grid;
+  grid-template: 1fr / 1fr 1fr;
+}
