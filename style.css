@@ -2,6 +2,7 @@
 
 body {
   display: grid;
+  margin: 0;
   grid-template-columns: 200px 1000px;
   grid-template-rows: 200px 1000px;
   font-family: roboto, sans-serif;
@@ -113,6 +114,18 @@ div {
 .trending-element {
   display: grid;
   grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
 }
 
 grid-template: 1fr / 1fr 1fr;
