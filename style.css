@@ -10,7 +10,7 @@ body {
 
 div {
   /* TODO: remove this */
-  border: solid;
+  /* border: solid; */
 }
 
 /* Main body */
@@ -21,7 +21,8 @@ div {
   /*subgrid*/
   display: grid;
   grid-template-rows: repeat(30, 1fr);
-  background-color: lightblue;
+  background-color: #0ea5e9;
+  color: white;
 }
 
 .header-container {
