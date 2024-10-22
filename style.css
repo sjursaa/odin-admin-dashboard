@@ -93,16 +93,22 @@ div {
   grid-column-end: 3;
   display: grid;
   grid-template: 1fr /1fr 1fr 1fr 1fr 1fr;
+  margin: 10px;
+  align-items: center;
 }
 
 .user-info-container {
   display: grid;
   grid-template: 1fr /1fr 1fr 1fr;
+  margin: 10px;
+  align-items: center;
 }
 
 .button-container {
   display: grid;
   grid-template: 1fr /1fr 1fr 1fr;
+  margin: 10px;
+  align-items: center;
 }
 
 /* main-content */
