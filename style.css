@@ -49,6 +49,8 @@ div {
   /* grid-template-rows: 1fr 1fr; */
 }
 
+/* TODO: make dashboard element bigger */
+
 #home {
   grid-row-start: 3;
 }
