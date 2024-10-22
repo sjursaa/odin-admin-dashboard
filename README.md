@@ -12,10 +12,6 @@ Simple CSS-focused project for the purpose of getting comfortable using CSS grid
 
 ## HTML
 
-- TODO: add header containers
-- TODO: add header contents
-- TODO: add main-content subcontainers
-
 ## CSS:
 
 - TODO: apply grid properties until layout is built

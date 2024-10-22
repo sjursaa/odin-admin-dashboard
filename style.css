@@ -100,8 +100,6 @@ div {
   /* display: grid; */
   grid-row-start: 1;
   grid-row-end: 3;
-  /* TODO: create a grid for header + content */
-  /* TODO: create grid for content 2x3 grid */
 }
 
 .project-elements {
