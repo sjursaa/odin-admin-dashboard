@@ -21,3 +21,7 @@ Simple CSS-focused project for the purpose of getting comfortable using CSS grid
 - TODO: add svgs to sidebar
 - TODO: add proper styling to main section
 - TODO: disable borders
+
+# NOTES
+
+press ':e' to reload, if changes don't disappear after committing changes
