@@ -8,19 +8,9 @@ Simple CSS-focused project for the purpose of getting comfortable using CSS grid
 
 # Roadmap
 
-# Step 2:
-
-## HTML
-
-## CSS:
-
-- TODO: apply grid properties until layout is built
-
-# step 3
-
-- TODO: add svgs to sidebar
-- TODO: add proper styling to main section
-- TODO: disable borders
+- TODO: Add proper styling to main section
+- TODO: Increase size of dashboard div
+- TODO: Turn sidebar-elements into buttons (optional/advanced)
 
 # NOTES
 
