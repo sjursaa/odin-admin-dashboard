@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   display: grid;
   grid-template-columns: 200px 1000px;
   grid-template-rows: 200px 1000px;
+  font-family: roboto, sans-serif;
 }
 
 div {
@@ -110,4 +113,10 @@ div {
 .trending-element {
   display: grid;
   grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
+}
+
+grid-template: 1fr / 1fr 1fr;
 }
