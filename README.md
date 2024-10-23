@@ -11,7 +11,10 @@ Simple CSS-focused project for the purpose of getting comfortable using CSS grid
 - TODO: Add proper styling to main section
 - TODO: Increase size of dashboard div
 - TODO: Turn sidebar-elements into buttons (optional/advanced)
-- TODO: add placeholder images for profile pictures
+- TODO: Add placeholder images for profile pictures
+- TODO: Add svgs to buttons in main section projects
+- TODO: add accent color to left border for main elements
+- TODO: add div (container) for announcements
 
 # NOTES
 
