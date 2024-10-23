@@ -124,11 +124,18 @@ div {
   /* display: grid; */
   grid-row-start: 1;
   grid-row-end: 3;
+  margin: 10px;
 }
 
 .project-elements {
   display: grid;
   grid-template: 1fr 1fr 1fr / 1fr 1fr;
+  gap: 10px;
+}
+
+.project-element {
+  background-color: white;
+  padding: 10px;
 }
 
 .trending-element {
